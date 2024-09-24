@@ -1,0 +1,14 @@
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\bin\Debug\Pmenu.exe.config
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\bin\Debug\Pmenu.exe
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\bin\Debug\Pmenu.pdb
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\obj\Debug\Pmenu.csproj.AssemblyReference.cache
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\obj\Debug\Pmenu.Form1.resources
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\obj\Debug\Pmenu.Properties.Resources.resources
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\obj\Debug\Pmenu.csproj.GenerateResource.cache
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\obj\Debug\Pmenu.csproj.CoreCompileInputs.cache
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\obj\Debug\Pmenu.exe
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\obj\Debug\Pmenu.pdb
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\obj\Debug\Pmenu.frmExercicio2.resources
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\obj\Debug\Pmenu.frmExercicio3.resources
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\obj\Debug\Pmenu.frmExercicio4.resources
+C:\Users\0030482411027\Desktop\Pmenu\Pmenu\obj\Debug\Pmenu.frmExercicio5.resources
